@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on [ShipShop E-commerce website](https://github.com/a342z/ITI-Ecommerce)
 
-- speech_balloon You Can Join me at leetcode and Solving Cool Problems Together here [@AhmedkamalR leetcode](@AhmedkamalR leetcode)
 
 - 👨‍💻 All of my projects are available at [https://github.com/AhmedkamalR](https://github.com/AhmedkamalR)
 
@@ -12,6 +11,8 @@
 - 💬 Ask me about **MEA/RN**
 
 - 📫 How to reach me **ahmedkamalrakha8@gmail.com**
+- :coffee:You Can Join me at leetcode and Solving Cool Problems Together here [@AhmedkamalR leetcode](@AhmedkamalR leetcode)
+
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1VGlpm0FicduDiPB73-JwI1oS7u-oOWbn/view?usp=sharing](https://drive.google.com/file/d/1VGlpm0FicduDiPB73-JwI1oS7u-oOWbn/view?usp=sharing)
 
@@ -19,7 +20,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/ahmedkamalrakha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/ahmedkamalrakha" height="30" width="40" /></a>
 <a href="https://twitter.com/ahmedkamalrakah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedkamalrakah" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-kamal-rakha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-kamal-rakha/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/ahmedkamalr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ahmedkamalr" height="30" width="40" /></a>
