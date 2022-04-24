@@ -6,12 +6,12 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AhmedkamalR](https://github.com/AhmedkamalR)
 
-- 📝 I regularly write articles on [https://dev.to/ahmedkamalrakha](@ahmedkamalrakha Dev.to)
+- 📝 I regularly write articles on [https://dev.to/ahmedkamalrakha](https://dev.to/ahmedkamalrakha)
 
 - 💬 Ask me about **MEA/RN**
 
 - 📫 How to reach me **ahmedkamalrakha8@gmail.com**
-- :coffee:You Can Join me at leetcode and Solving Cool Problems Together here [https://leetcode.com/AhmedkamalR/](@AhmedkamalR leetcode)
+- :coffee:You Can Join me at leetcode and Solving Cool Problems Together here [https://leetcode.com/AhmedkamalR/](https://leetcode.com/AhmedkamalR/)
 
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1VGlpm0FicduDiPB73-JwI1oS7u-oOWbn/view?usp=sharing](https://drive.google.com/file/d/1VGlpm0FicduDiPB73-JwI1oS7u-oOWbn/view?usp=sharing)
