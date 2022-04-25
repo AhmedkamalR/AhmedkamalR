@@ -2,11 +2,12 @@
 <h3 align="center">I'am a Full-Stack-Developer, I enjoy Coffee, Travel and Workout.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedkamalr&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedkamalr" /> </p>
-- 🔭 I’m currently working on [ShipShop E-commerce website](https://github.com/a342z/ITI-Ecommerce)
+
+- 🔭 I’m currently working on [https://github.com/a342z/ITI-Ecommerce](https://github.com/a342z/ITI-Ecommerce)
 
 - 📫 How to reach me **ahmedkamalrakha8@gmail.com**
 
-- 👨‍💻 You Can Join me at leetcode and Solving Cool Problems Together here [https://leetcode.com/AhmedkamalR/](https://leetcode.com/AhmedkamalR/):coffee:
+- 👨‍💻 You Can Join me at leetcode and Solving Cool Problems Together here :coffee: [https://leetcode.com/AhmedkamalR/](https://leetcode.com/AhmedkamalR/)
 
 - 📝 I regularly write articles on [https://dev.to/ahmedkamalrakha](https://dev.to/ahmedkamalrakha)
 
