@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed kamal</h1>
-<h4 align="center"> Software Engineer @EverestMinds ,  Enjoy Coffee, Travel and Workout.</h4>
+<h4 align="center"> Software Engineer @everestminds ,  Enjoy Coffee, Travel and Workout.</h4>
 
 <p align="center">
 <a href="https://twitter.com/ahmedkamalrakah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedkamalrakah" height="30" width="40" /></a>
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ahmedkamalrakha8@gmail.com**
  
-- 🔭 I’m currently working in @EverestMinds
+- 🔭 I’m currently working in @everestminds
 
 - 👨‍💻 You Can Join me at leetcode :coffee: and Solving Cool Problems Together here  <a href="https://www.leetcode.com/https://leetcode.com/ahmedkamalr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ahmedkamalr/" height="30" width="40" /></a>
 
