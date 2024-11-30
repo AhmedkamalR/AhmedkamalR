@@ -21,6 +21,6 @@
 
 - 💬 Ask me about SDLC /STLC
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1Uk8T8xrp8qVJ9gGEtEo_pdsGN06mj5fu/view?usp=sharing](https://drive.google.com/file/d/1Uk8T8xrp8qVJ9gGEtEo_pdsGN06mj5fu/view?usp=sharing))
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1sxDaKNyIilw-iPtxALtBsLXewKc2vDl9/view?usp=drive_link](https://drive.google.com/file/d/1sxDaKNyIilw-iPtxALtBsLXewKc2vDl9/view?usp=drive_link))
 
 
